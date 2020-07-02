@@ -1,0 +1,2 @@
+# wadadaw
+latihan git
